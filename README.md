@@ -3,7 +3,7 @@
 ### Quizz application with Flutter.
 
 #### 1.Home Page
-<img style="https://github.com/OmarGeno/Quizz-app-Mobile/blob/main/quizzapp1.png"/> 
+<img style="center" src="https://github.com/OmarGeno/Quizz-app-Mobile/blob/main/quizzapp1.png"/> 
 
 
 #### 2.questions and answers
