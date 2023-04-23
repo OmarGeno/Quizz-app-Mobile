@@ -7,9 +7,11 @@
 
 
 #### 2.questions and answers
-<img style="https://github.com/OmarGeno/Quizz-app-Mobile/blob/main/quizzapp2.png"/> 
-<img style="https://github.com/OmarGeno/Quizz-app-Mobile/blob/main/quizzapp3.png"/> 
-<img style="https://github.com/OmarGeno/Quizz-app-Mobile/blob/main/quizzapp5.png"/>
+<img style="center" src="https://github.com/OmarGeno/Quizz-app-Mobile/blob/main/quizzapp2.png"/> 
+
+<img style="center" src="https://github.com/OmarGeno/Quizz-app-Mobile/blob/main/quizzapp3.png"/> 
+
+<img style="center" src="https://github.com/OmarGeno/Quizz-app-Mobile/blob/main/quizzapp5.png"/>
 
 
 #### 4.Results
